@@ -7,26 +7,42 @@ Desenvolvedora de Software em formação, criando soluções que unem tecnologia
 ## Habilidades e Tecnologias
 <div align="center">
 
-  ### Linguagens & Banco de Dados
+   ### Linguagens & Banco de Dados
   
-  [![C#](https://shields.io)](https://microsoft.com)
-  [![JavaScript](https://shields.io)](https://mozilla.org)
-  [![SQL](https://shields.io)](https://microsoft.com)
+  <a href="https://microsoft.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="60" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mozilla.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mysql.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="60" />
+  </a>
 
-  <br />
+  <br /><br />
 
   ### Front-end
   
-  [![HTML5](https://shields.io)](https://mozilla.org)
-  [![CSS3](https://shields.io)](https://mozilla.org)
+  <a href="https://mozilla.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="60" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mozilla.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="60" />
+  </a>
 
-  <br />
+  <br /><br />
 
   ### Ferramentas
   
-  [![Git](https://shields.io)](https://git-scm.com)
-  [![GitHub](https://shields.io)](https://github.com)
-  [![VS Code](https://shields.io)](https://visualstudio.com)
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="60" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="60" style="background-color: #f0f6fc; border-radius: 50%;" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://visualstudio.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="60" />
+  </a>
 
 </div>
 
@@ -45,17 +61,3 @@ Desenvolvedora de Software em formação, criando soluções que unem tecnologia
 - Aprender boas práticas de desenvolvimento.
 - Evoluir continuamente para atuar como Desenvolvedora de Software.
 - Contribuir para projetos que gerem impacto positivo para usuários.
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=andreaslv&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaslv&layout=compact&theme=tokyonight"/>
-
-</p>
-
----

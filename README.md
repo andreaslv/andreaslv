@@ -1,6 +1,4 @@
-# Olá 👋
-
-Meu nome é Andréa.
+![Banner Animado](BannerGit-ezgif.com-video-to-gif-converter.gif)
 
 Desenvolvedora de Software em formação, criando soluções que unem tecnologia, resolução de problemas e experiência do usuário. Atualmente aprendendo através de projetos práticos com C#, SQL, HTML, CSS e JavaScript enquanto construo minha carreira na área de tecnologia.
 

@@ -2,56 +2,33 @@
 
 Desenvolvedora de Software em formação, criando soluções que unem tecnologia, resolução de problemas e experiência do usuário. Atualmente aprendendo através de projetos práticos com C#, SQL, HTML, CSS e JavaScript enquanto construo minha carreira na área de tecnologia.
 
-## Habilidades e Tecnologias
+## 🧠 Linguagens e Tecnologias
+
 <div align="center">
-
-   ### Linguagens & Banco de Dados
-  
-  <a href="https://microsoft.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="60" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mozilla.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mysql.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="60" />
-  </a>
-
-  <br /><br />
-
-  ### Front-end
-  
-  <a href="https://mozilla.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="60" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mozilla.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="60" />
-  </a>
-
-  <br /><br />
-
-  ### Ferramentas
-  
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="60" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="60" style="background-color: #f0f6fc; border-radius: 50%;" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://visualstudio.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="60" />
-  </a>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,mysql,git,github,vscode&theme=dark" />
 </div>
 
-<br />
+<br>
 
+## 📊 Estatísticas
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api?username=andreaslv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andreaslv&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ## Atualmente estudando
-
-• Lógica de programação
-• Desenvolvimento Web
-• Banco de Dados
+* Lógica de programação
+* Desenvolvimento Web
+* Banco de Dados
 
 ## Objetivos Atuais
 - Consolidar minha base em lógica de programação e desenvolvimento de software.
